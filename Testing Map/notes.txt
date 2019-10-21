@@ -1,0 +1,6 @@
+
+  Name      Default Limit   Modified Limit    Tested at   Fullness  
+ --------- --------------- ----------------- ----------- ---------- 
+  Brushes   8192            11264             12509       93.3%     
+  Faces     65536           Same as default   63054       96.2%     
+

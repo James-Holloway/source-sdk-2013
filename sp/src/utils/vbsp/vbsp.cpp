@@ -898,7 +898,7 @@ int RunVBSP( int argc, char **argv )
 
 	LoadCmdLineFromFile( argc, argv, mapbase, "vbsp" );
 
-	Msg( "Valve Software - vbsp.exe (%s)\n", __DATE__ );
+	Msg( "Valve Software - Modified to double entity and brush limits - vbsp.exe (%s)\n", __DATE__ );
 
 	for (i=1 ; i<argc ; i++)
 	{
